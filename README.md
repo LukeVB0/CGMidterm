@@ -1,5 +1,7 @@
 # CGMidterm
 
+My exam was about the sonic game
+
 Part 2: I used a Fresnel effect to create the appearance of a shiny object. 
         I used this because I couldn't remember how to do the lighting shown in class and this had an effect that would simulate having a reflective object
         To make the shader I made a base texture and then added a Fresnel effect with it.
